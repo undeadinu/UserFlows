@@ -12,7 +12,7 @@ var userDefaults = {
 }
 
 var scaleOptions = ['1x', '2x'];
-var formatOptions = [NSArray arrayWithObjects:"PNG", "JPG", "TIFF", nil]
+var formatOptions = [NSArray arrayWithObjects:"PDF", "PNG", "JPG", "TIFF", nil]
 iconName = "icon.png"
 
 var askForFlowDetails = function() {
